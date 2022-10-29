@@ -3,4 +3,4 @@
 # Images Cartoonifier
 It gets input from the live stream, and uses random thresholding for cartoonifying the images.
 
-![Cartoonified Image](https://user-images.githubusercontent.com/58489322/198856038-d9aecec3-ee47-4e34-b7e9-1b521c597d52.png)
+![Cartoonified Image](https://user-images.githubusercontent.com/58489322/198856123-cc7a3360-a1bf-4851-8aa0-7e141172de1f.png)
